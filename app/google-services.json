@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361989652869",
+    "firebase_url": "https://photoblogger-73858.firebaseio.com",
+    "project_id": "photoblogger-73858",
+    "storage_bucket": "photoblogger-73858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361989652869:android:a0bec3ce2340e881",
+        "android_client_info": {
+          "package_name": "com.example.photoblogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361989652869-cckv33ktm4r2lik656s9j9ighlsfapkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photoblogger",
+            "certificate_hash": "3e34cb14969b1d09ca4b1bace3f781262526121a"
+          }
+        },
+        {
+          "client_id": "361989652869-v62tfm5h804sv5aokafl5di1s58bbevl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtZSTvGkhs0KEq0Um2VcpT0Frn9dq3uwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361989652869-v62tfm5h804sv5aokafl5di1s58bbevl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
